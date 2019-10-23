@@ -32,5 +32,11 @@ Todas las screenshoots presentadas estan en la carpeta de Imagenes.
 
 | Componente | Descripción | Imagenes |
 | --- | --- | --- |
-| Ninguno | Menú de la app |<div style="text-align:center"> <img src="Imágenes/1.png" width=150 heigth="300"> |
+| Ninguno | Menú de la app | <img src="Imágenes/1.png" width=150 heigth="300"> |
 | Alerta |  Sirve para ver como funciona una alerta |<img src="Imágenes/2.png" width=150 heigth="300"><img src="Imágenes/3.png" width=150 heigth="300">| 
+| Avatars | Parecido a un contacto | <img src="Imágenes/4.png" width=150 heigth="300"> |
+| Tarjetas | Manejo de tarjetas  | <img src="Imágenes/5.png" width=150 heigth="300"> |
+| Animated Container | Animación de una transicion de figuras | <img src="Imágenes/6.png" width=150 heigth="300"><img src="Imágenes/7.png" width=150 heigth="300"> |
+| Inputs | Insertar datos en labels | <img src="Imágenes/8.png" width=150 heigth="300"> |
+| Sliders | Manejar un slider que cambia de tamaño una imagen | <img src="Imágenes/9.png" width=150 heigth="300"><img src="Imágenes/10.png" width=150 heigth="300"><img src="Imágenes/11.png" width=150 heigth="300"> |
+| Listas y Scroll | Lista "infinita" de imagenes y manejo de scroll | <img src="Imágenes/12.png" width=150 heigth="300"><img src="Imágenes/13.png" width=150 heigth="300"> |
