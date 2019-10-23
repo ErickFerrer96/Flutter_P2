@@ -30,3 +30,5 @@ Todo esta en la carpeta "lib", los complementos estan en las otras.
 
 | Descripción | Componente | Imagenes |
 | --- | --- | --- |
+| Menú de la app | Ninguno | ![Simulator Screen Shot - iPhone Xʀ - 2019-10-23 at 09 39 29](https://user-images.githubusercontent.com/47545651/67404450-0aa5d980-f579-11e9-8df5-86c20e9583ee.png)
+ |
