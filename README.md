@@ -28,7 +28,7 @@ Todo esta en la carpeta "lib", los complementos estan en las otras.
 
 ## Galeria
 
-| Descripción | Componente | Imagenes |
+| Componente | Descripción | Imagenes |
 | --- | --- | --- |
-| Menú de la app | Ninguno | ![Simulator Screen Shot - iPhone Xʀ - 2019-10-23 at 09 39 29](https://user-images.githubusercontent.com/47545651/67404450-0aa5d980-f579-11e9-8df5-86c20e9583ee.png)
- |
+| Ninguno | Menú de la app | ![Simulator Screen Shot - iPhone Xʀ - 2019-10-23 at 09 39 29](https://user-images.githubusercontent.com/47545651/67404450-0aa5d980-f579-11e9-8df5-86c20e9583ee.png)|
+| Alerta |  Sirve para ver como funciona una alerta |![Simulator Screen Shot - iPhone Xʀ - 2019-10-23 at 09 30 28](https://user-images.githubusercontent.com/47545651/67404881-99b2f180-f579-11e9-8c9f-a9b21fef4722.png)![Simulator Screen Shot - iPhone Xʀ - 2019-10-23 at 09 30 45](https://user-images.githubusercontent.com/47545651/67404887-9b7cb500-f579-11e9-9fea-bd10552e5b52.png)| 
