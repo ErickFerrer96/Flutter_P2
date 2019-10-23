@@ -16,7 +16,7 @@ Para Visual Studio instalar siguientes plugins:
 
 # Código 
 
-Toda la lógica, así como la interfaz esta en la carpeta de "lib".
+Todo esta en la carpeta "lib", los complementos estan en las otras.
 
 ## Autores 
 
@@ -25,3 +25,8 @@ Toda la lógica, así como la interfaz esta en la carpeta de "lib".
 ## Documentacion de Flutter usada en este proyecto
 
 [Documentación](https://flutter.dev/docs)
+
+## Galeria
+
+| Descripción | Componente | Imagenes |
+| --- | --- | --- |
