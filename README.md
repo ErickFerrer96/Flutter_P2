@@ -14,6 +14,11 @@ Para Visual Studio instalar siguientes plugins:
 * Awesome Flutter Snippet(Version usada en este proyecto 2.0.2).
 * Bracket Pair Colorizer 2(Version usada en este proyecto 0.0.28).
 
+# Compilación
+
+Crear un nuevo proyecto de flutter en Visual Studio Core, insertar la carpeta lib en el proyecto, poner las demas fuera de lib, en el proyecto, finalmente reemplazar el pubspecs.yaml del proyecto, por el que esta aqui. 
+
+
 # Código 
 
 Todo esta en la carpeta "lib", los complementos estan en las otras.
