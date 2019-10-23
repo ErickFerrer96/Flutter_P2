@@ -33,4 +33,4 @@ Todas las screenshoots presentadas estan en la carpeta de Imagenes.
 | Componente | Descripción | Imagenes |
 | --- | --- | --- |
 | Ninguno | Menú de la app | <img src="Imágenes/1.png" width=150 heigth="300"> |
-| Alerta |  Sirve para ver como funciona una alerta ||--|--|| 
+| Alerta |  Sirve para ver como funciona una alerta ||Una|Dos|| 
